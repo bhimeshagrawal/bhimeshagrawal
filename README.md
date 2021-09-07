@@ -54,7 +54,7 @@ Hi, I'm [Bhimesh Agrawal](https://www.bhimeshagrawal.com/), a web and app develo
     <img src="Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp; -->
 
-  <a href="https://www.hackerrank.com/bhimeshagrawalg1">
+  <a href="https://www.hackerrank.com/bhimeshagrawal">
     <img src="Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
