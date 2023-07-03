@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhimeshagrawal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Competitive programming
+- 🌱 I’m doing Competitive programming and learning data structures and algorithms
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me email at: bhimeshagrawalggc@gmail.com
